@@ -1,6 +1,5 @@
 ```
-![user](https://github.com/user-attachments/assets/09a52dec-aa3d-4d43-94fe-cf466990f01f)
-
+![a](https://github.com/user-attachments/assets/60dcc16e-4da3-40ef-97e6-963b088f60fe)
 
 OS: Arch Linux x86_64 
 Uptime: ∞ years 
