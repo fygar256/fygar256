@@ -1,6 +1,7 @@
-```
+
 ![a](https://github.com/user-attachments/assets/60dcc16e-4da3-40ef-97e6-963b088f60fe)
 
+```
 OS: Arch Linux x86_64 
 Uptime: ∞ years 
 Packages: 1988 (pacman) 
