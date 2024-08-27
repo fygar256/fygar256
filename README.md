@@ -1,5 +1,5 @@
 
-<img width="500" alt="a" src="https://github.com/user-attachments/assets/60dcc16e-4da3-40ef-97e6-963b088f60fe">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/81d498fa-d8a4-4bcf-8761-43072684083f">
 
 ```
 OS: Arch Linux x86_64 
