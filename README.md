@@ -1,6 +1,5 @@
 ```
-
-![image](https://github.com/user-attachments/assets/09a52dec-aa3d-4d43-94fe-cf466990f01f)
+![user](https://github.com/user-attachments/assets/09a52dec-aa3d-4d43-94fe-cf466990f01f)
 
 
 OS: Arch Linux x86_64 
