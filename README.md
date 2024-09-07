@@ -11,9 +11,3 @@ CPU: Intel i5 M 430 (4) @ 2.267GHz
 GPU: AMD ATI Mobility Radeon HD 5650/5 
 Memory: 3697MiB / 7798MiB
 ```
-
-GAME language and articles which can not pinned.
-
-https://github.com/fygar256/game_language_compiler_miep2
-
-https://github.com/fygar256/game_language_interpreter_gamec
