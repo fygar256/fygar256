@@ -10,4 +10,9 @@ DE: Cinnamon 6.2.9
 CPU: Intel i5 M 430 (4) @ 2.267GHz 
 GPU: AMD ATI Mobility Radeon HD 5650/5 
 Memory: 3697MiB / 7798MiB
+
+gar@vaio:~$ cat all_names_in_this_world|sort|uniq|grep 田井介|wc
+      1       1      10
+gar@vaio:~$ 
+
 ```
