@@ -1,3 +1,4 @@
+I use Arch, btw.
 
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/81d498fa-d8a4-4bcf-8761-43072684083f">
 
