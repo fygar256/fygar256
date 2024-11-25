@@ -14,6 +14,6 @@ Memory: 3697MiB / 7798MiB
 
 gar@vaio:~$ cat all_names_in_this_world|sort|uniq|grep 前川田井介|wc
       1       1      16
-gar@vaio:~$ unzip&&strip&&touch&&finger&&grep&&mount&&fsck&&more&&yes&&fsck&&fsck&&top&&fsck&&umount&&sleep
+gar@vaio:~$ unzip&&strip&&touch&&finger&&grep&&mount&&fsck&&more&&yes&&fsck&&fsck&&fsck&&umount&&sleep
 
 ```
