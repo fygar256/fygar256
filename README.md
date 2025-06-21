@@ -5,7 +5,7 @@ I use FreeBSD, btw.
 ```
 
 OS: FreeBSD 14.3-RELEASE amd64 
-Uptime: 14 mins 
+Uptime: ∞ years 
 Packages: 833 (pkg) 
 Shell: zsh 5.9 
 Resolution: 1920x1080 
