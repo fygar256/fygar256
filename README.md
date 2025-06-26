@@ -1,4 +1,4 @@
-I use FreeBSD, btw.　前川田井介
+I use FreeBSD, btw.
 
 ```
 
