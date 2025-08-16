@@ -20,4 +20,12 @@ I use FreeBSD, btw.
                                    Memory: 2853MiB / 8012MiB 
 
                                                            
-```                                                        
+```
+
+16-2 Minamihouei-Cho Kochi-City Kochi-Pref. Japan 〒780-0816
+tel:080-2945-3018
+single
+IQ142
+lonely
+cat-lover
+naughty,HSP and Asperger.
