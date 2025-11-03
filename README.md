@@ -22,6 +22,9 @@ I use FreeBSD, btw.
                                                            
 ```
 
+% cat all_names_in_this_world|grep 前川田井介
+前川田井介
+
 16-2 Minamihouei-Cho Kochi-City Kochi-Pref. Japan 〒780-0816
 
 tel:080-2945-3018
