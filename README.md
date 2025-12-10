@@ -19,11 +19,11 @@ I use FreeBSD, btw.
 </p>
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fygar256&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fygar256&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fygar256&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fygar256&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fygar256&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fygar256)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fygar256)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fygar256)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fygar256)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fygar256&utcOffset=9)
 
 
 ```
@@ -61,6 +61,3 @@ lonely
 cat-lover
 
 naughty,HSP and Asperger.
-
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fygar256)
-
