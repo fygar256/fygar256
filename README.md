@@ -25,6 +25,8 @@ I use FreeBSD, btw.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fygar256)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fygar256&utcOffset=9)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fygar256&repo=z80constmul)](https://github.com/fygar256/z80constmul)
+
 
 ```
 
