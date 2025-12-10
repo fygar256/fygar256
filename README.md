@@ -62,10 +62,5 @@ cat-lover
 
 naughty,HSP and Asperger.
 
-<a href="https://github.com/fygar256/z80constmul">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fygar256&repo=z80constmul" />
-</a>
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fygar256)
 
-<a href="https://github.com/fygar256/bust_curved_surface">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fygar256&repo=bust_curved_surface" />
-</a>
