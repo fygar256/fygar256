@@ -1,6 +1,5 @@
 I use FreeBSD, btw.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fygar256)](https://github.com/anuraghazra/github-readme-stats)
 
 ```
 
