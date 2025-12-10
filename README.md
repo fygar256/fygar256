@@ -27,9 +27,9 @@ I use FreeBSD, btw.
 
 ## Extra Projects 🚀
 
-- [Project A](https://github.com/fygar256/z80constmul)  
-- [Project B](https://github.com/fygar256/bust_curved_surface)  
-- ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fygar256&repo=general_pattern_editor)
+- [z80constmul](https://github.com/fygar256/z80constmul)  
+- [bust_curved_surface](https://github.com/fygar256/bust_curved_surface)  
+- [general_pattern_editor](https://github.com/fygar256/general_pattern_editor)  
 
 
 ```
