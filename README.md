@@ -18,6 +18,13 @@ I use FreeBSD, btw.
   </a>
 </p>
 
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fygar256&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fygar256&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fygar256&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fygar256&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fygar256&theme=gruvbox&utcOffset=9)
+
 
 ```
 
