@@ -1,5 +1,7 @@
 I use FreeBSD, btw.
 
+https://github-readme-stats.vercel.app/api?username=fygar256
+
 ```
 
 ```                        `       gar@vaio 
