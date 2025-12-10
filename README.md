@@ -1,7 +1,7 @@
 I use FreeBSD, btw.
 
-[![fygar256's GitHub stats](https://github-readme-stats.vercel.app/api?username=fygar256)](https://github.com/fygar256/github-readme-stats)
-```
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/fygar256/github-readme-stats)
+
 
 ```                        `       gar@vaio 
   ` `.....---.......--.```   -/    -------- 
