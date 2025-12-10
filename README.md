@@ -61,3 +61,9 @@ lonely
 cat-lover
 
 naughty,HSP and Asperger.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fygar256&repo=z80constmul">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fygar256&repo=<リポジトリ名>">
+
+
