@@ -2,9 +2,9 @@ I use FreeBSD, btw.
 
 % cat all_names_in_this_world|grep 前川田井介|tee t|sort|uniq|wc&&wc t
 
-       1       1      16
+1       1      16
 
-       1       1      16 t
+1       1      16 t
 
 <p align="left">
   <a href="https://github.com/fygar256">
