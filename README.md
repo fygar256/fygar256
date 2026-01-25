@@ -41,24 +41,25 @@ I use FreeBSD, btw.
 
 ```
 
-```                        `       gar@vaio 
-  ` `.....---.......--.```   -/    -------- 
+gar@thinkpad:~% neofetch
+```                        `       gar@thinkpad 
+  ` `.....---.......--.```   -/    ------------ 
   +o   .--`         /y:`      +.   OS: FreeBSD 14.3-RELEASE amd64 
-   yo`:.            :o      `+-    Uptime: 25 mins 
-    y/               -/`   -o/     Packages: 970 (pkg) 
+   yo`:.            :o      `+-    Uptime: 24 mins 
+    y/               -/`   -o/     Packages: 931 (pkg) 
    .-                  ::/sy+:.    Shell: zsh 5.9 
-   /                     `--  /    Resolution: 1920x1080 
+   /                     `--  /    Resolution: 1366x768 
   `:                          :`   DE: MATE 1.28.0 
   `:                          :`   WM: Metacity (Marco) 
-   /                          /    Theme: YaruOk [GTK2/3] 
-   .-                        -.    Icons: mate [GTK2/3] 
+   /                          /    Theme: Mist [GTK2/3] 
+   .-                        -.    Icons: Papirus [GTK2/3] 
     --                      -.     Terminal: mate-terminal 
-     `:`                  `:`      Terminal Font: Myrica M 12 
-       .--             `--.        CPU: Intel i5 M 430 (4) @ 2.261GHz 
-          .---.....----.           GPU: Madison [Mobility Radeon HD 5650/5750 / 6530M/6550M] 
-                                   Memory: 2853MiB / 8012MiB 
-
-                                                           
+     `:`                  `:`      Terminal Font: Myrica M 9 
+       .--             `--.        CPU: Intel i5-8250U (8) @ 1.800GHz 
+          .---.....----.           GPU: UHD Graphics 620 
+                                   Memory: 3559MiB / 32628MiB 
+gar@thinkpad:~% 
+                                 
 ```
 
 16-2 Minamihouei-Cho Kochi-City Kochi-Pref. Japan 〒780-0816
