@@ -36,7 +36,8 @@ I use FreeBSD, btw.
 - [z80constmul](https://github.com/fygar256/z80constmul)  
 - [bust_curved_surface](https://github.com/fygar256/bust_curved_surface)  
 - [general_pattern_editor](https://github.com/fygar256/general_pattern_editor)  
-- [supertext](https://github.com/fygar256/supertext)  
+- [supertext](https://github.com/fygar256/supertext)
+- [general brainfuck transpiler](https://github.com/fygar256/general_brainfuck_transpiler)
 
 
 ```
