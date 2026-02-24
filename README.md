@@ -63,7 +63,7 @@ gar@thinkpad:~%
                                  
 ```
 
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/fygar256/fygar256/output/pacman-contribution-graph.svg)
+<img src="https://pacman.abozanona.me?fygar256=fygar256" />
 
 
 16-2 Minamihouei-Cho Kochi-City Kochi-Pref. Japan 〒780-0816
