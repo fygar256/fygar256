@@ -63,7 +63,7 @@ gar@thinkpad:~%
                                  
 ```
 
-<img src="https://pacman.abozanona.me?fygar256=fygar256&bg_color=f0f8e7" />
+<img src="https://pacman.abozanona.me?fygar256=fygar256&bg_color=F0F8E7" />
 
 
 16-2 Minamihouei-Cho Kochi-City Kochi-Pref. Japan 〒780-0816
