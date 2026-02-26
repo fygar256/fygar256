@@ -63,6 +63,8 @@ gar@thinkpad:~%
                                  
 ```
 
+Coding assistant: Claude
+
 <img src="https://pacman.abozanona.me?fygar256=fygar256&bg_color=F0F8E7" />
 
 
