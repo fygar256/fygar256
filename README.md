@@ -37,7 +37,7 @@ I use FreeBSD, btw.
 - [bust_curved_surface](https://github.com/fygar256/bust_curved_surface)  
 - [general_pattern_editor](https://github.com/fygar256/general_pattern_editor)  
 - [supertext](https://github.com/fygar256/supertext)
-- [literal general brainfuck transpiler](https://github.com/fygar256/general_brainfuck_transpiler)
+- [brainfuck compilers and interpreters](https://github.com/fygar256/brainfuck)
 
 
 ```
