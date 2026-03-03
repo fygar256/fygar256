@@ -46,21 +46,25 @@ gar@thinkpad:~% neofetch
 ```                        `       gar@thinkpad 
   ` `.....---.......--.```   -/    ------------ 
   +o   .--`         /y:`      +.   OS: FreeBSD 14.3-RELEASE amd64 
-   yo`:.            :o      `+-    Uptime: 24 mins 
-    y/               -/`   -o/     Packages: 931 (pkg) 
+   yo`:.            :o      `+-    Uptime: 2 hours, 3 mins 
+    y/               -/`   -o/     Packages: 1087 (pkg) 
    .-                  ::/sy+:.    Shell: zsh 5.9 
-   /                     `--  /    Resolution: 1366x768 
+   /                     `--  /    Resolution: 1920x1080 
   `:                          :`   DE: MATE 1.28.0 
   `:                          :`   WM: Metacity (Marco) 
    /                          /    Theme: Mist [GTK2/3] 
    .-                        -.    Icons: Papirus [GTK2/3] 
     --                      -.     Terminal: mate-terminal 
-     `:`                  `:`      Terminal Font: Myrica M 9 
+     `:`                  `:`      Terminal Font: Myrica M 12 
        .--             `--.        CPU: Intel i5-8250U (8) @ 1.800GHz 
           .---.....----.           GPU: UHD Graphics 620 
-                                   Memory: 3559MiB / 32628MiB 
+                                   Memory: 4657MiB / 32626MiB 
+
+                                                           
+                                                           
+
+
 gar@thinkpad:~% 
-                                 
 ```
 
 Coding assistant: Claude
