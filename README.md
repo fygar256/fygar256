@@ -1,10 +1,10 @@
 I use FreeBSD, btw.
 
-% cat all_names_in_this_world|grep 前川田井介|tee t|sort|uniq|wc&&wc t
+Hello,my name is 前川田井介.
+
+% cat all_names_in_this_world|grep 前川田井介|wc
 
 1       1      16
-
-1       1      16 t
 
 <p align="left">
   <a href="https://github.com/fygar256">
