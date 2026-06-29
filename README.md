@@ -78,8 +78,6 @@ tel:080-2945-3018
 
 single
 
-IQ142
-
 lonely
 
 cat-lover
