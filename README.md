@@ -82,4 +82,6 @@ lonely
 
 cat-lover
 
+IQ:142
+
 naughty,HSP and Asperger.
